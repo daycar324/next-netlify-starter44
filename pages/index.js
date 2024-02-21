@@ -51,7 +51,7 @@ Calculations below are based on School District of Philadelphia Immunization Rul
 <div class="row">
 <div class="col s6">
 <label><h5><b>Date of Birth</b></h5></label> 
-<input type="date"  id="bday" name="birthday">   
+<input type="date"  id="bday" name="birthday"/>   
 </div>
 
 <div class="col s6">
