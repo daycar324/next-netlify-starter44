@@ -43,8 +43,8 @@ export default function Home() {
 
 <div class="container">
 <h2> Immunization Compliance Calculator</h2>
-<p> Enter the approriate student's date of birth, grade level and doses below to get immunization compliance status by vaccine
-<br> Calcutions below are based on School District of Philadelphia Immunization Rules.</p> 
+<p> Enter the appropriate student's date of birth, grade level and doses below to get immunization compliance status by vaccine
+Calculations below are based on School District of Philadelphia Immunization Rules.</p> 
 
 
 
