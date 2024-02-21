@@ -6,24 +6,13 @@ export default function Home() {
   return (
     <div className="container">
 <head>
-    <meta charSet="utf-8" />
-    <meta name="viewport" content="width=device-width" />
-    <title>Next.js Starter!</title>
-    <link rel="icon" href="/favicon.ico" />
-    <meta name="next-head-count" content="4" />
-    <link rel="preload" href="/_next/static/css/921ec2eac5cd9779.css" as="style" crossorigin="" />
-    <link rel="stylesheet" href="/_next/static/css/921ec2eac5cd9779.css" crossorigin="" data-n-g="" />
-    <link rel="preload" href="/_next/static/css/cb165e32f86afbae.css" as="style" crossorigin="" />
-    <link rel="stylesheet" href="/_next/static/css/cb165e32f86afbae.css" crossorigin="" data-n-p="" /><noscript
-        data-n-css=""></noscript>
-    <script defer="" crossorigin="" nomodule="" src="/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js"></script>
-    <script src="/_next/static/chunks/webpack-fd8027ecb5121007.js" defer="" crossorigin=""></script>
-    <script src="/_next/static/chunks/framework-bbecb7d54330d002.js" defer="" crossorigin=""></script>
-    <script src="/_next/static/chunks/main-35dd51a4ebea5223.js" defer="" crossorigin=""></script>
-    <script src="/_next/static/chunks/pages/_app-ba0fcf773e94f4d3.js" defer="" crossorigin=""></script>
-    <script src="/_next/static/chunks/pages/index-976dd2d78ffa8952.js" defer="" crossorigin=""></script>
-    <script src="/_next/static/dq6XpnKMJfk_ujrGOGRtQ/_buildManifest.js" defer="" crossorigin=""></script>
-    <script src="/_next/static/dq6XpnKMJfk_ujrGOGRtQ/_ssgManifest.js" defer="" crossorigin=""></script>
+<base target="_self">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"/>
+<script type = "text/javascript" src = "https://code.jquery.com/jquery-2.1.1.min.js"></script> 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+
 </head>
 <main>
 
