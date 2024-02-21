@@ -115,8 +115,7 @@ Calculations below are based on School District of Philadelphia Immunization Rul
 
 <label>Dose 4: </label><input type="date" placeholder="Enter dose 4 date" id="dose4" value="" />
 </div>
-<hr>
-
+<hr />
 </div>
 
 
